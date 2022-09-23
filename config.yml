@@ -1,0 +1,5 @@
+tunnel: 4aecbda2-702a-49b5-aad2-2f2a2af29273
+#ingress:
+        #        - hostname: operations.finsec.systems
+        #          service: https://operations-proxy
+        #        - service: http_status:404
